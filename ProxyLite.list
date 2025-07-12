@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,play-asia.com
 DOMAIN-SUFFIX,cpu-monkey.com
 DOMAIN-SUFFIX,piccoma.com
 DOMAIN-SUFFIX,vcb-s.com
+DOMAIN-SUFFIX,sod-female.com
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
 IP-CIDR,1.1.1.1/32,no-resolve
