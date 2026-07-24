@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,bugutv.vip
 DOMAIN-SUFFIX,ext.to
 DOMAIN-SUFFIX,allowflash.com
 DOMAIN-SUFFIX,cfnmtoob.com
+DOMAIN-SUFFIX,jgjs02.com
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
