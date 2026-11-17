@@ -1,8 +1,37 @@
-#Apple Intelligence
+# new siri
+
+DOMAIN-SUFFIX,gateway.icloud.com
+DOMAIN-SUFFIX,seed.siri.apple.com
+DOMAIN-SUFFIX,api-siri-prod.apple.com
+DOMAIN-SUFFIX,probe.icloud.com
+DOMAIN-SUFFIX,metrics.icloud.com
+
 DOMAIN-SUFFIX,guzzoni.apple.com
 DOMAIN-SUFFIX,smoot.apple.com
+
+
+# ----------------------------------------------------------
+# Apple Intelligence / Private Cloud Compute
+# ----------------------------------------------------------
+
+DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,apple-relay.fastly-edge.com
 DOMAIN-SUFFIX,cp4.cloudflare.com
-DOMAIN-SUFFIX,apple-relay.apple.com
+
+
+# ----------------------------------------------------------
+# Apple Intelligence relay / bootstrap
+# ----------------------------------------------------------
+
+DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net
+DOMAIN-SUFFIX,mask-api.icloud.com
+DOMAIN-SUFFIX,mask-api.fe2.apple-dns.net
+DOMAIN-SUFFIX,apple-relay.akamaized.net
+DOMAIN-SUFFIX,apple-carry-relay.cloudflare.com
+
+# ----------------------------------------------------------
+# Apple region determination
+# ----------------------------------------------------------
+
 DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
